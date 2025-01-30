@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Freya2005
+- 👋 Hi, I’m Pooja Goel
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React and Express
 - 😄 Pronouns:  She/Her
